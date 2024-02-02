@@ -1,1 +1,1 @@
-# Data-Product-Insights--Spotify-s-Discover-Weekly
+# Spotify-Data-Product-Discover-Weekly-Insights
